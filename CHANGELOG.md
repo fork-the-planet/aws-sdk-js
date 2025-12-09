@@ -1,6 +1,9 @@
 # Changelog for AWS SDK for JavaScript
-<!--LATEST=2.1692.0-->
+<!--LATEST=2.1693.0-->
 <!--ENTRYINSERT-->
+
+## 2.1693.0
+* feature: Support: Update docs to indicate JS SDK v2 is end-of-support
 
 ## 2.1692.0
 * feature: S3: Add support for the new optional bucket-region and prefix query parameters in the ListBuckets API. For ListBuckets requests that express pagination, Amazon S3 will now return both the bucket names and associated AWS regions in the response.
